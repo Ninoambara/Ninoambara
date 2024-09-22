@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Nino Ambara! 👋
 
 I'm a passionate programmer currently focusing on learning and mastering various technologies. I love to explore the world of coding and build exciting projects.
@@ -24,6 +22,10 @@ I'm a passionate programmer currently focusing on learning and mastering various
 
     - **Go frameworks**: ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white), ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white), ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+- **Artificial Intelligence** and **Prompt Engineering**:
+  
+    - Learning to craft better prompts for AI models and exploring **Langchain** to build language model applications.
+
 ## 💼 Tech Stacks I Work With
 
 Here are some of the technologies I'm familiar with:
@@ -39,6 +41,7 @@ Here are some of the technologies I'm familiar with:
 - ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ![Langchain](https://img.shields.io/badge/Langchain-2A1E5C?style=for-the-badge&logo=langchain&logoColor=white)  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -51,5 +54,4 @@ Feel free to reach out to me for collaboration, questions, or just to say hi:
 - 💬 LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/nino-ambara-indrawan-585433287/)
 - 📷 Instagram: [Follow me on Instagram](https://www.instagram.com/ninoambaraa/)
 
-Let's connect and explore the world of programming together!
-
+Let's connect and explore the world of programming and AI together!
